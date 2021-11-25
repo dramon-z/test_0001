@@ -18,12 +18,7 @@ import pandas as pd
 
 global logger
 
-username = "IHM0915CMI"
-password = "pr3uBa8l"
-file_path= "file/eva_layout_5.csv"
-XDEVOPSAUTH ="sDzeC29Wt72zbma8vJqFE5PvtLVbdBWjiEw"
-XDEVOPSAPPNAME='apigee-dev'
-xapikey= "GKD25Kfmc6VeoxGLAGtlrbYgZobDdB7S"
+
 timerecord = datetime.datetime.now().strftime('%Y_%m_%d_%H_%M_%S')
 subscriptionId = "2d622ff4-5c89-41e7-890a-eaf62c787df6" 
 
